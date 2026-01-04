@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **MERN Stack**
 - 👯 I’m looking to collaborate on **Frontend & Full-Stack Projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, React.js, C++ (DSA)**
-- 📫 How to reach me: **sagararora90@gmail.com**
+- 📫 How to reach me: **arorasagar540@gmail.com**
 - ⚡ Fun fact: I’m still wondering how to center a div 😄
 
 ---
